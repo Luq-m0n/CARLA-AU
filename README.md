@@ -1,4 +1,4 @@
-# CARLA-AU
+# CARLA - Anna University
 A project on autonomous driving in CARLA simulator
 ## CARLA SIMULATOR -INTIALIAZATION
 
